@@ -1,5 +1,3 @@
-base:
-  'minion-1':
+dev:
+  'minion-0':
     - test
-  '* and not minion-1':
-    - test2

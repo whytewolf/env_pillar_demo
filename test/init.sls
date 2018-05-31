@@ -1,1 +1,1 @@
-pillar_test1: 'This is a base test'
+pillar_test1: 'This is a dev test'
